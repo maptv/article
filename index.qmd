@@ -2,6 +2,7 @@
 title: "Cholesterol Synthesis: Pathway, Regulation, and Clinical Significance"
 format: html
 bibliography: references.bib
+author: "Lanasia West"
 ---
  
 ## Abstract
